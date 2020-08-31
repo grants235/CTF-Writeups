@@ -1,7 +1,5 @@
 # CTF-Writeups
 
-## About
-
 This repo is a collection of CTF writeups that I have completed on various CTFs. Most of the writeups that I have done are large writeups for beginner CTF for the easire challenges in more advanced CTFs. 
 
 ### Disclaimer
